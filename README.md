@@ -10,7 +10,7 @@
 - Botões para navegabilidade 
 - Segmentadores de dados 
 
-
+Link PowerBI: https://app.powerbi.com/links/i4wYNOLIbT?ctid=633e1b29-fc6d-49ce-8787-dd13860eb61d&pbi_source=linkShare
 
 
 <p float="left">
