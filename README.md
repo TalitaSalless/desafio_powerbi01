@@ -9,3 +9,14 @@
 - Gráficos (visuais) e os campos que os compõem 
 - Botões para navegabilidade 
 - Segmentadores de dados 
+
+
+
+
+<p float="left">
+
+ <img src="https://github.com/TalitaSalless/desafio_powerbi01/blob/main/Captura%20de%20tela%202023-10-07%20184050.png" width="500" />
+
+ <img src="https://github.com/TalitaSalless/desafio_powerbi01/blob/main/Captura%20de%20tela%202023-10-07%20184101.png" width="500" /> 
+
+</p>
